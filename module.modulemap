@@ -1,5 +1,5 @@
 module CFreeImage [system] {
-  header "FreeImage.h"
+  header "module.h"
   link "freeimage"
   export *
 }
